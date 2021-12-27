@@ -20,4 +20,6 @@
 		assert.fail(null, null, message);
 	};
 
+
 }());
+
