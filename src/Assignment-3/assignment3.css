@@ -3,6 +3,7 @@
 .container,.content {
   width: 100%;
 }
+
 .parent,.second-box{
     width:1000px;
     display:flex;
